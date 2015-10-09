@@ -1,0 +1,9 @@
+ Integration in polar coordinates and same resolution in all dimensions. 
+ n:        Result with Gauss-Legendre:      Exact result:       Relative error:     Calculation time [s]:
+   10                      NAN             0.1927657110                 NAN             0.02645
+   15                      NAN             0.1927657110                 NAN              0.3270
+   20             0.1910817800             0.1927657110            0.008736               1.701
+   25             0.1917407402             0.1927657110            0.005317               6.194
+   30             0.1921137116             0.1927657110            0.003382               17.44
+   35                      NAN             0.1927657110                 NAN               46.71
+   40                      NAN             0.1927657110                 NAN               99.32
